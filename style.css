@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+.text_images_and_result{
+    background-color: rgb(15, 231, 231);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px dashed goldenrod;
+}
+#Img{
+    height: 500px;
+}
